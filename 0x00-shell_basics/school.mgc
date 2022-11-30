@@ -1,2 +1,3 @@
-0 string ALX School data
-!:mime School
+#!/bin/bash
+0	string School data
+!:mime text/School
