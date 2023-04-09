@@ -65,6 +65,31 @@ creating links, and using keyboard shortcuts in Bash.
   named `__ls__`.
 * Only digits and letters are used to sort - digits come first.
 
+* **14. Copy HTML files**
+  * [14-copy_html](./14-copy_html): Bash script that copies all HTML files from the current
+  working directory to the parent of the working directory, but only those that
+  did not exist in the parent directory or were newer than the versions in the parent working directory.
+
+* **100. Let’s move**
+  * [100-lets_move](./100-lets_move): Bash script that moves all files beginning with an uppercase
+  letter to the directory `/tmp/u`.
+
+* **101. Clean Emacs**
+  * [101-clean_emacs](./101-clean_emacs): Bash script that deletes all files in the current working
+  directory that end with the character `~`.
+
+* **102. Tree**
+  * [102-tree](./102-tree): Bash script that creates the directories `welcome/`,
+  `welcome/to/` and `welcome/to/holberton` in the current directory.
+
+* **103. Life is a series of commas, not periods**
+  * [103-commas](./103-commas): Bash script that lists all files and directories of the current
+  directory, including hidden ones, as follows:
+    * Separated by commas (`,`).
+    * Directory names end with a slash (`/`).
+    * Alpha-ordered, except for the directories `.` and `..` which are listed at the beginning.
+    * Only digits and letters are used to sort - digits come first.
+     
 * **14. File type: School**
   * [school.mgc](./school.mgc): A magic file that can be used with the command `file` to
   detect `School` data files.
