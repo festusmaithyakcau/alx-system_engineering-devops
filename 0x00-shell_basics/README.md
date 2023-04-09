@@ -63,32 +63,8 @@ creating links, and using keyboard shortcuts in Bash.
 * **13. We are symbols, and inhabit symbols**
   * [13-symbolic_link](./13-symbolic_link): Bash script that creates a symbolic link to `/bin/ls`,
   named `__ls__`.
+* Only digits and letters are used to sort - digits come first.
 
-* **14. Copy HTML files**
-  * [14-copy_html](./14-copy_html): Bash script that copies all HTML files from the current
-  working directory to the parent of the working directory, but only those that
-  did not exist in the parent directory or were newer than the versions in the parent working directory.
-
-* **15. Let’s move**
-  * [15-lets_move](./15-lets_move): Bash script that moves all files beginning with an uppercase
-  letter to the directory `/tmp/u`.
-
-* **16. Clean Emacs**
-  * [16-clean_emacs](./16-clean_emacs): Bash script that deletes all files in the current working
-  directory that end with the character `~`.
-
-* **17. Tree**
-  * [17-tree](./17-tree): Bash script that creates the directories `welcome/`,
-  `welcome/to/` and `welcome/to/holberton` in the current directory.
-
-* **18. Life is a series of commas, not periods**
-  * [18-commas](./18-commas): Bash script that lists all files and directories of the current
-  directory, including hidden ones, as follows:
-    * Separated by commas (`,`).
-    * Directory names end with a slash (`/`).
-    * Alpha-ordered, except for the directories `.` and `..` which are listed at the beginning.
-    * Only digits and letters are used to sort - digits come first.
-
-* **19. File type: Holberton**
+* **14. File type: School**
   * [school.mgc](./school.mgc): A magic file that can be used with the command `file` to
   detect `School` data files.
