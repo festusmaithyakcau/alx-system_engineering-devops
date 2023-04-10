@@ -59,20 +59,20 @@ in the Shell.
 
 * **12. More directories**
   * [12-directory_permissions](./12-directory_permissions): Bash script that creates a
-  directory `dir_holberton` with permissions 751 in the working directory.
+  directory `my_dir` with permissions 751 in the working directory.
 
 * **13. Change group**
   * [13-change_group](./13-change_group): Bash script that changes the group owner to
-  `holberton` for the file `hello`.
+  `school` for the file `hello`.
 
 * **100. Owner and group**
   * [100-change_owner_and_group](./100-change_owner_and_group): Bash script that changes the
-  owner to `betty` and the group owner to `holberton` for all the files and directories
+  owner to `staff` and the group owner to `vincent` for all the files and directories
   in the working directory.
 
 * **101. Symbolic links**
   * [101-symbolic_link_permissions](./101-symbolic_link_permissions): Bash script that changes
-  the owner and the group owner of the file `hello` to `betty` and `holberton`, respectively.
+  the owner and the group owner of the file `satff_hello` to `betty` and `vincent`, respectively.
 
 * **102. If only**
   * [102-if_only](./102-if_only): Bash script that changes the owner of the file `hello`
