@@ -33,3 +33,9 @@ with `ps`, `pgrep`, `pkill`, `pkill`, `exit`, and `trap`.
   that displays the PID along with the process name of processes who name contains the
 
   word `bash`.
+  
+* **4. To infinity and beyond**
+
+  * [4-to_infinity_and_beyond](./4-to_infinity_and_beyond): Bash script that displays
+
+  `To infinity and beyond` indefinitely with a `sleep 2` in between each iteration.
