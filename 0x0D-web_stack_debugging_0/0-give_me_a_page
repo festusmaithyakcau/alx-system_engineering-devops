@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Bash: debug fix unresponsive apache server
+echo "ServerName apacheindocker.com" >> /etc/apache2/apache2.conf
+service apache2 start
