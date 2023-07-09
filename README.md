@@ -2,8 +2,8 @@
 
 This repository contains programs written for the system engineering and Developer Operations
 track at ALX School. In these projects, I worked with Bash and practiced
-writing Bash scripts to automate tasks.The specific list of projects
-contained in this directory are as follows:
+writing Bash scripts to automate tasks. The specific list of projects
+contained in this directory is as follows:
 
 * [0x00. Shell, basics](./0x00-shell_basics)
 * [0x01. Shell, permissions](./0x01-shell_permissions)
@@ -19,6 +19,7 @@ contained in this directory are as follows:
 * [0x0C-web_server](./0x0C-web_server)
 * [0x0D-web_stack_debugging_0](./0x0D-web_stack_debugging_0)
 * [0x0F-load_balancer](./0x0F-load_balancer)
+* [0x0E-web_stack_debugging_1](./0x0E-web_stack_debugging_1)
 * ---
 * [attack_is_the_best_defense](./attack_is_the_best_defense)
 
