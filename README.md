@@ -22,6 +22,7 @@ contained in this directory is as follows:
 * [0x0E-web_stack_debugging_1](./0x0E-web_stack_debugging_1)
 * [0x0F-load_balancer](./0x0F-load_balancer)
 * [0x10-https_ssl](./0x10-https_ssl)
+* .[0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter](./0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter)
 * ---
 * [attack_is_the_best_defense](./attack_is_the_best_defense)
 
