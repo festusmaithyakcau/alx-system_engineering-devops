@@ -24,6 +24,7 @@ contained in this directory is as follows:
 * [0x10-https_ssl](./0x10-https_ssl)
 * .[0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter](./0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter)
 * [0x12-web_stack_debugging_2](./0x12-web_stack_debugging_2)
+* [0x13-firewall](./0x13-firewall)
 * ---
 * [attack_is_the_best_defense](./attack_is_the_best_defense)
 
