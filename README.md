@@ -26,7 +26,8 @@ contained in this directory is as follows:
 * [0x12-web_stack_debugging_2](./0x12-web_stack_debugging_2)
 * [0x13-firewall](./0x13-firewall)
 * [0x14-mysql](./0x14-mysql)
-* ---
+* [0x15-api](./0x15-api)
+# Optional Projects
 * [attack_is_the_best_defense](./attack_is_the_best_defense)
 
 
