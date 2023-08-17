@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Efficiently reloads Gunicorn service.
+
+ps aux | grep gunicorn | awk '{ print $2 }' | xargs kill -HUP
