@@ -39,7 +39,7 @@ contained in this directory is as follows:
 
 ## Author :black_nib:
 
-* Festus Maithya <[festusmaithyakcau](https://github.com/festusmaithyakcau)>
+* Festus Maithya [festusmaithyakcau](https://github.com/festusmaithyakcau)
 
 ## Acknowledgements :pray:
 
